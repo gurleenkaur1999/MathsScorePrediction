@@ -1,5 +1,5 @@
-# Maths Score Prediction Project
-Predict students' final math grades using machine learning.
+# Student Performance
+Predict student performance in secondary education (high school)
 
 This project predicts the final math scores (G3) of students based on features like previous grades, study habits, and demographic data. It uses linear regression and evaluates model performance using RMSE, MAE, and R².
 
